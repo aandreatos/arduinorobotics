@@ -18,9 +18,9 @@ https://www.thingiverse.com/thing:470370
 
 https://github.com/futureshocked/arduino_sbs
 
-# VIDEOS #
+### VIDEOS ###
 
-Arduino Tutorial - Servo Motor Control with Arduino
+Arduino Tutorial - Servo Motor Control with Arduino =
 https://www.youtube.com/watch?v=LHvXPeT2gws
 
 Arduino Tutorial - Servo Motor Control with Joystick = 
@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=kA_pbMR6jVs
 
 
 
-# PARTS #
+### PARTS ###
+
 https://www.servocity.com/
 
